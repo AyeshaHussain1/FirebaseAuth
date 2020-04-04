@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="login_using_email">Login Using Email</string>
+    <string name="or_using">OR Using</string>
+    <string name="login_page">Login</string>
+    <string name="back_btn">Back</string>
+    <string name="facebook_app_id">873157383108422</string>
+    <string name="fb_login_protocol_scheme">fb873157383108422</string>
+
+</resources>
